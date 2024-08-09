@@ -80,8 +80,8 @@ for epoch in range(epochs):
 
 \newpage
 
-\section{Analiza kodu i obliczenia{\slash}wzory}
-\label{Analiza kodu i obliczenia{\slash}wzory}
+\section{Analiza kodu i obliczenia/wzory}
+\label{Analiza kodu i obliczenia/wzory}
 
 Obliczanie regresji liniowej zaczyna się od utworzenia dwóch macierzy. Do analizy bierzemy dwie przykładowe macierze.
 
